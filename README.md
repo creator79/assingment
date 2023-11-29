@@ -81,25 +81,6 @@ Open your web browser and go to the specified address (usually http://localhost:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## License
 
 Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/ReadME-Generator/blob/main/LICENSE.md) for more information.
-
-## Authors
-
-* **Shaan Khan** - *Comp Sci Student* - [Shaan Khan](https://github.com/ShaanCoding/) - *Built ReadME Template*
